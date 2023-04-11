@@ -1,1 +1,1 @@
-# go_bop_project1
+# A simple implementation of Go board game using C++ library conio2.
