@@ -1,4 +1,4 @@
-# A simple implementation of Go board game using C++ library conio2.
+# A simple implementation of Go board game using C/C++ library conio2.
 
 ![1](https://user-images.githubusercontent.com/106883711/231211241-dc942d1c-be9e-4aeb-ba5b-3b11204fc5d1.png)
 
